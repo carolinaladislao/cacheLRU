@@ -148,5 +148,6 @@ int buscarNumeroEnLista(Lista *lista, int numero) {
             return 1;
         }
     }
+
     return 0;
 }

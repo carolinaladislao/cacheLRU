@@ -17,6 +17,7 @@ typedef struct lista{
     Nodo * cabecera;
 }Lista;
 
+
 typedef struct cache{
     int tamanio;
     int ocupacion;

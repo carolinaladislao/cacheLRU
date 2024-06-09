@@ -42,5 +42,6 @@ int main() {
     solicitarNumero(cache,lista,10);
     solicitarNumero(cache,lista,20);
     solicitarNumero(cache,lista,10);
+
     return 0;
 }
